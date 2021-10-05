@@ -22,5 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Complete Ruby on Rails development
+First Test repo on the Complete Ruby on Rails development
 
